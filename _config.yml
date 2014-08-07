@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            ej
 tagline:          software writer in pdx
-url:              http://www.ejohnson.io
+url:              http://www.ejohnson.io/
 paginate:         1
 baseurl:          /
 author:
