@@ -48,12 +48,12 @@ body {
 }
 
 .site-header {
+  margin-top: 1em;
   text-align: center;
   width: 100%;
 }
 
 .site-header a {
-  margin-top: 1em;
   color: #333;
   font-weight: 300;
 }
