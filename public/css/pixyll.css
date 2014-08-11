@@ -50,6 +50,7 @@ body {
 .site-header a {
   color: #333;
   font-weight: 300;
+  text-align: center;
 }
 
 .site-header nav a {
