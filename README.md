@@ -1,3 +1,3 @@
-# [ejohnson.io](www.ejohnson.io)
+# ejohnson.io
 
-My personal site, built with [Poole](http://getpoole.com/).
+My personal [site](www.ejohnson.io), built with [Poole](http://getpoole.com/).
