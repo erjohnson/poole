@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Blogs I Read
-date:       2014-08-18
+date:       2014-08-30
 summary:    Links to developer blogs I like to read.
 categories: programming blogs reading links
 ---
