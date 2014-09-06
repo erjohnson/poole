@@ -14,7 +14,7 @@
 */
 
 body {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: 'Libre Baskerville', serif;
 }
 
 html, body {
@@ -218,14 +218,14 @@ blockquote footer {
 h1,
 h2,
 h3 {
-  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   margin-top: 3rem;
 }
 
 h4,
 h5,
 h6 {
-  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   margin-top: 1rem;
 }
 

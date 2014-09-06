@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            ej
+title:            Eric Johnson
 tagline:          software writer in pdx
 url:              http://www.ejohnson.io/
 paginate:         4
@@ -18,5 +18,3 @@ author:
 
 # Custom vars
 version:          1.0.0
-github:
-  repo:           https://github.com/poole/poole
