@@ -49,7 +49,7 @@ body {
 
 html {
   font-family: 'Karla', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.7;
 }
 @media (min-width: 38em) {
@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 4rem;
 }
 h2 {
   margin-top: 1rem;
@@ -286,11 +286,10 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 38rem;
+  max-width: 40rem;
   padding-left:  1rem;
   padding-right: 1rem;
-  margin-left:  auto;
-  margin-right: auto;
+  margin: 0 auto;
 }
 
 
@@ -301,14 +300,13 @@ tbody tr:nth-child(odd) th {
  */
 
 .masthead {
-  padding-top: 1rem;
   padding-bottom: 1rem;
-  margin: 5rem auto;
+  margin: 2rem auto 3rem;
   text-align: center;
   letter-spacing: 0.125em;
 }
 .masthead-title {
-  margin-top: 0;
+  margin-top: -18px;
   margin-bottom: 1rem;
   color: #121212;
 }
